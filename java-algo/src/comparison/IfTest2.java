@@ -52,7 +52,6 @@ public class IfTest2 {
 			return;
 		}
 		
-
 		int first;
 		String name = null;
 		
